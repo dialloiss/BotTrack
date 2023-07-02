@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "İlk eklentim",
+  "description": "Sizlere Benden bir Hello Word",
+  "version": "0.1",
+  "background": {
+    "scripts": [
+      "socket.io.js",
+      "background.js"
+    ]
+  },
+  
+
+  "permissions":[
+    "storage",
+    "contextMenus",
+    "notifications",
+    "tabs"
+  ]
+    
+  
+
+}

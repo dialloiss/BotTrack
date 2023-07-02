@@ -1,0 +1,1 @@
+pyinstaller main.py --onedir --windowed --add-data "static;static" --add-data "C:/Users/abugr/Appdata/Local/Programs/Python/Python39/Lib/site-packages/customtkinter;customtkinter/"
